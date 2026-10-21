@@ -1,0 +1,11 @@
+identifiant,nom,espece,age,poids,enclos,statut_sante
+A001,Simba,Lion,12,190.5,Savane,Bon
+A002,Nala,Lion,10,150.0,Savane,Bon
+A003,Dumbo,Éléphant,45,4200.0,Savane,Sous surveillance
+A004,Babar,Éléphant,30,3800.5,Savane,Bon
+A005,Kaa,Python,8,25.3,Savane,Bon
+A006,Nagini,Python,20,40.0,Savane,Malade
+A007,Marcel,Singe,7,15.2,Primates,Bon
+A008,Cheeta,Guépard,14,55.0,Savane,Sous surveillance
+A009,Kong,Singe,22,80.4,Primates,Malade
+A010,Titi,Perroquet,3,0.9,Volières,Bon
